@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(22, 22, 22);
 }
 
 .nav-wrapper {
@@ -13,8 +13,8 @@ body {
   height: 70px;
   width: 100%;
   padding: 0 70px;
-  background-color: rgb(71, 69, 87);
-  border-bottom: 5px solid rgb(210, 231, 114);
+  background-color: rgb(165, 112, 90);
+  border-bottom: 5px solid rgb(184, 49, 16);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -56,7 +56,7 @@ body {
 }
 
 .photo-wrapper:hover {
-  background-color: rgb(28 28 28);
+  background-color: rgb(61, 61, 61);
   transition: 0.3s;
 }
 
