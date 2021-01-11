@@ -13,8 +13,8 @@ body {
   height: 70px;
   width: 100%;
   padding: 0 70px;
-  background-color: rgb(165, 112, 90);
-  border-bottom: 5px solid rgb(184, 49, 16);
+  background-color: rgb(255, 133, 27);
+  border-bottom: 5px solid rgb(251, 211, 195);
   display: flex;
   justify-content: space-between;
   align-items: center;

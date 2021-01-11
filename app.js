@@ -60,7 +60,6 @@ arrowRight.addEventListener("click", function (e) {
 function slideLeft() {
         var sliderImage = slider.getElementsByClassName("slider-photo-wrapper")[0];
         var index = sliderImage.childNodes[0].id;
-        console.log(index);
         if(index == 0){
                 index = 31;
         }else{
@@ -75,7 +74,7 @@ function slideLeft() {
 function slideRight() {
         var sliderImage = slider.getElementsByClassName("slider-photo-wrapper")[0];
         var index = sliderImage.childNodes[0].id;
-        console.log(index);
+
         if(index == 31){
                 index = 0;
         }else{
